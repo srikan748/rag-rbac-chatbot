@@ -1,0 +1,15 @@
+.env
+
+venv/
+backend/venv/
+
+__pycache__/
+*.pyc
+
+logs/chat_logs.csv
+
+chroma_db/
+
+faiss_index/
+
+*.sqlite3
