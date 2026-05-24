@@ -9,7 +9,7 @@ from langchain_community.document_loaders.csv_loader import (
     CSVLoader
 )
 
-from langchain.text_splitter import (
+from langchain_text_splitters import (
     RecursiveCharacterTextSplitter
 )
 
@@ -306,7 +306,7 @@ def create_qa_chain(
 
     retriever = filtered_vectorstore.as_retriever(
 
-        search_kwargs={"k": 4}
+        search_kwargs={"k": 10}
     )
 
     # =========================

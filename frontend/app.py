@@ -67,7 +67,7 @@ if login_button:
 
     response = requests.post(
 
-        "http://127.0.0.1:8080/login",
+        "http://localhost:8080/login",
 
         data={
 
@@ -117,7 +117,7 @@ if "token" in st.session_state:
 
         response = requests.post(
 
-            "http://127.0.0.1:8080/chat",
+            "http://localhost:8080/chat",
 
             headers={
 
