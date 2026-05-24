@@ -191,9 +191,9 @@ fake_users = {
         "role": "engineering"
     },
 
-    "ceo_user": {
+    "executive_user": {
 
-        "password": "ceo123",
+        "password": "executive123",
 
         "role": "ceo"
     }
