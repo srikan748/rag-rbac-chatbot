@@ -1,11 +1,4 @@
----
-title: FinSolve RAG RBAC Chatbot
-emoji: 🤖
-colorFrom: blue
-colorTo: indigo
-sdk: docker
-pinned: false
----
+
 
 # FinSolve Technologies - Enterprise RAG RBAC Chatbot
 
