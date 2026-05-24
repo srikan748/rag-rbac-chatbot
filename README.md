@@ -154,7 +154,7 @@ streamlit run frontend/app.py
 
 Built with passion as part of Codebasics Resume Project Challenge
 
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: www.linkedin.com/in/gunji-srikanth91
 - GitHub: https://github.com/srikan748
 
 ## Acknowledgements
